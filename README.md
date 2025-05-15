@@ -21,7 +21,7 @@ I’m committed to continuous learning and thrive in collaborative environments 
 - 🚀 Mastering advanced backend development using ASP.NET Core
 - 🎯 Becoming an expert in clean code and software design patterns
 - 🤝 Contributing to open-source projects and the developer community
-- 🧠 Solving complex problems on platforms like Codeforces and LeetCode
+- 🧠 Solving problems on platforms like Codeforces and LeetCode
 
 
 ---
