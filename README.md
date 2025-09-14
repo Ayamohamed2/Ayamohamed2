@@ -1,6 +1,6 @@
 # 👩‍💻 Aya Mohamed Hussien
 
-🎓 **Third-Year Computer Science Student** at Luxor University  
+🎓 **Final-Year Computer Science Student** at Luxor University  
 💻 **ASP.NET Core Developer | Competitive Programmer**  
 📍 Luxor, Egypt  
 📬 aya667015@gmail.com  
